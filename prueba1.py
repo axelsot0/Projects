@@ -13,5 +13,5 @@ boton1 = Button(text="saludar", fg="black", bg = "white", command= lambda: hola(
 
 boton1.grid(row= 5, column= 5, padx = 5, pady= 5)
 
-
+print("hola")
 ventana.mainloop()
